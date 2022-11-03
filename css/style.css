@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800&display=swap');
+
+body{
+	font-family: 'Raleway', sans-serif;
+	color: #09090d;
+}
+
+#hero{
+	background-color: #FFFFFF;
+	padding: 70px;
+}
+
+.amarillo{
+	background-color: #FFDA79;
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 16px;
+	font-weight: 800;
+	margin: 0 70% 0 0;
+	text-align: left;
+}
+
+.amarillo2{
+	background-color: #FFDA79;
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 16px;
+	font-weight: 800;
+	margin: 0 35% 0 35%;
+	text-align: center;
+}
+
+
+#hero h1{
+	font-size: 70px;
+	font-weight: 900;
+}
+
+.btn-twilo{
+	background-color: #09090d;
+	color: #fff;
+	padding: 12px 30px;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.brands{
+	padding: 70px;
+}
+
+#about{
+	background-color: #cce4e4;
+	padding: 120px 0;
+}
+
+#about h2{
+	font-weight: 700;
+	font-size: 50px;
+	margin: 20px 0 40px 0;
+}
+
+#about h5{
+	font-weight: 700;
+	margin: 0px 0 20px 0;
+}
+
+#about h6{
+	font-weight: 300;
+	margin: 0 30% 40px 0;
+	color: #17494d;
+}
+
+#about h4{
+	font-weight: 300;
+	font-size: 30px;
+	color: #8BBCC0;;
+}
+
+.azul{
+	background-color: #8BBCC0;
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 16px;
+	font-weight: 800;
+	margin: 0 70% 0 0;
+	text-align: left;
+}
+
+#worldwide{
+	padding: 120px 250px;
+	text-align: center;
+}
+
+#worldwide h2{
+	font-weight: 700;
+	font-size: 40px;
+	margin: 20px 0 40px 0;
+}
+
+#subscribe{
+	background-color: #d6baf5;
+	padding: 100px 100px 50px 100px;
+}
+
+#subscribe h2{
+	font-weight: 700;
+	font-size: 40px;
+	margin: 20px 0 40px 0;
+}
+
+#subscribe h6{
+	font-weight: 300;
+	margin: 0 30% 40px 0;
+	color: #17494d;
+	font-size: 15px;
+}
+
+.list{
+	color: #5d5d5d;
+	font-size: 12px;
+	text-align: center;
+}
+
+h6{
+	color: #3D3D3D;
+	font-weight: 900;
+}
+
+b{
+	color: #5d5d5d;
+	font-size: 12px;
+	text-align: center;
+}
+
